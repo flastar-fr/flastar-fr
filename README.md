@@ -1,0 +1,5 @@
+- 👋 Hi, I’m hbequet
+- 👀 I’m interested in low level programming, game developement and OS ricing
+- 🌱 I’m currently learning C++ for game developement
+- 😄 Pronouns: Him / His
+- ⚡ Fun fact: I'm currently studying in IUT of Limoges for a BUT.
