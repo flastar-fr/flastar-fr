@@ -1,4 +1,4 @@
-- 👋 Hi, I’m hbequet
+- 👋 Hi, I’m flastar
 - 👀 I’m interested in low level programming, game developement and OS ricing
 - 🌱 I’m currently learning C++ for game developement
 - 😄 Pronouns: Him / His
